@@ -48,3 +48,7 @@ module.exports = (env = {}) => {
     },
   };
 };
+
+
+<script src="https://cdn.jsdelivr.net/npm/systemjs@6/dist/system.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/systemjs@6/dist/extras/amd.min.js"></script>
